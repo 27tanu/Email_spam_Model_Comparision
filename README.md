@@ -15,7 +15,7 @@ Roadmap of the project-
 7. Conclusion.
 
 
-![Confusion Matrix](C:\Users\shan2\Pictures\Screenshots\Comparision Table.png)
+![Confusion Matrix](C:\Users\shan2\Pictures\Screenshots\Comparision_Table.png)
 
 
 

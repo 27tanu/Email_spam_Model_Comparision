@@ -12,10 +12,12 @@ Roadmap of the project-
 4. Model Building and tunning hyperparameters.
 5. Results.
 6. Comapring based on different parameters.
-7. Conclu
+7. Conclusion
 
 
 
+    CONFUSION MATRIX
+    ![Confusion_Matrix](https://github.com/user-attachments/assets/fc5baa04-1c1c-438d-9247-34b2281df7ad)
 
-![Confusion_Matrix](https://github.com/user-attachments/assets/fc5baa04-1c1c-438d-9247-34b2281df7ad)
-
+    COMPARISION TABLE
+    ![Comparision_Table](https://github.com/user-attachments/assets/78bda384-1b10-4714-bb78-7e28466385b1)

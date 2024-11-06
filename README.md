@@ -14,7 +14,8 @@ Roadmap of the project-
 6. Comapring based on different parameters.
 7. Conclusion.
 
-![Screenshot](C:\Users\shan2\Pictures\Screenshots.png)
+
+![Confusion Matrix](C:\Users\shan2\Pictures\Screenshots.png)
 
 
 
